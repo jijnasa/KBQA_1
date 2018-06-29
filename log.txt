@@ -1,0 +1,89 @@
+Namespace(batch_obj_size=128, batch_question_size=32, batch_type='batch_obj', dropout=0.35, earlystop_tolerance=5, epoch_num=1000, hidden_size=100, learning_rate=2.0, margin=0.1, model='ABWIM', optimizer='Adadelta', pretrain_model=None, save_model_path='save_model/411_1h47m.pt', test=True, train=True), lstm dropout=0
+0.7507598784194529	save_model/411_1h47m.pt
+Namespace(batch_obj_size=128, batch_question_size=32, batch_type='batch_obj', dropout=0.35, earlystop_tolerance=5, epoch_num=1000, hidden_size=100, learning_rate=2.0, margin=0.1, model='ABWIM', optimizer='Adadelta', pretrain_model=None, save_model_path='save_model/411_11h14m.pt', test=True, train=True)
+0.7306990881458967	save_model/411_11h14m.pt
+Namespace(batch_obj_size=128, batch_question_size=32, batch_type='batch_obj', dropout=0.35, earlystop_tolerance=5, epoch_num=1000, hidden_size=100, learning_rate=1.0, margin=0.1, model='ABWIM', optimizer='Adadelta', pretrain_model=None, save_model_path='save_model/411_15h17m.pt', test=True, train=True)
+0.7501519756838906	save_model/411_15h17m.pt
+Namespace(batch_obj_size=128, batch_question_size=32, batch_type='batch_obj', dropout=0.35, earlystop_tolerance=5, epoch_num=1000, hidden_size=100, learning_rate=0.5, margin=0.1, model='ABWIM', optimizer='Adadelta', pretrain_model=None, save_model_path='save_model/411_17h16m.pt', test=True, train=True)
+0.7173252279635258	save_model/411_17h16m.pt
+
+Namespace(batch_obj_size=128, batch_question_size=1, batch_type='batch_question', dropout=0, earlystop_tolerance=5, epoch_num=1000, hidden_size=400, learning_rate=2.0, margin=0, model='HR-BiLSTM', optimizer='Adadelta', pretrain_model=None, save_model_path='save_model/412_14h54m.pt', test=True, train=True)
+0.7410334346504559	save_model/412_14h54m.pt
+Namespace(batch_obj_size=128, batch_question_size=4, batch_type='batch_question', dropout=0.5, earlystop_tolerance=5, epoch_num=1000, hidden_size=400, learning_rate=1.0, margin=0.1, model='HR-BiLSTM', optimizer='Adadelta', pretrain_model=None, save_model_path='save_model/413_16h49m.pt', test=True, train=True)
+0.6188449848024317	save_model/413_16h49m.pt
+Namespace(batch_obj_size=128, batch_question_size=2, batch_type='batch_question', dropout=0.5, earlystop_tolerance=5, epoch_num=1000, hidden_size=400, learning_rate=1.0, margin=0.1, model='HR-BiLSTM', optimizer='Adadelta', pretrain_model=None, save_model_path='save_model/413_18h26m.pt', test=True, train=True)
+0.6711246200607903	save_model/413_18h26m.pt
+
+Namespace(batch_obj_size=128, batch_question_size=32, batch_type='batch_obj', dropout=0, earlystop_tolerance=5, epoch_num=1000, hidden_size=400, learning_rate=2.0, margin=0, model='HR-BiLSTM', optimizer='RMSprop', pretrain_model=None, save_model_path='save_model/412_17h9m.pt', test=True, train=True) --> OOM
+Namespace(batch_obj_size=128, batch_question_size=1, batch_type='batch_question', dropout=0.5, earlystop_tolerance=5, epoch_num=1000, hidden_size=512, learning_rate=0.0001, margin=0, model='HR-BiLSTM', optimizer='RMSprop', pretrain_model=None, save_model_path='save_model/412_17h34m.pt', test=True, train=True)
+0.7580547112462006	save_model/412_17h34m.pt
+Namespace(batch_obj_size=128, batch_question_size=1, batch_type='batch_question', dropout=0.5, earlystop_tolerance=5, epoch_num=1000, hidden_size=512, learning_rate=0.0001, margin=0, model='HR-BiLSTM', optimizer='RMSprop', pretrain_model=None, save_model_path='save_model/412_17h44m.pt', test=True, train=True)
+0.59209726443769	save_model/412_17h44m.pt
+Namespace(batch_obj_size=128, batch_question_size=1, batch_type='batch_question', dropout=0.35, earlystop_tolerance=5, epoch_num=1000, hidden_size=512, learning_rate=0.0001, margin=0, model='HR-BiLSTM', optimizer='RMSprop', pretrain_model=None, save_model_path='save_model/413_10h5m.pt', test=True, train=True)
+0.6966565349544073	save_model/413_10h5m.pt
+Namespace(batch_obj_size=128, batch_question_size=32, batch_type='batch_obj', dropout=0.5, earlystop_tolerance=5, epoch_num=1000, hidden_size=512, learning_rate=0.0001, margin=0, model='HR-BiLSTM', optimizer='RMSprop', pretrain_model=None, save_model_path='save_model/413_13h4m.pt', test=True, train=True)
+0.6601823708206687	save_model/413_13h4m.pt
+Namespace(batch_obj_size=128, batch_question_size=2, batch_type='batch_question', dropout=0.5, earlystop_tolerance=5, epoch_num=1000, hidden_size=512, learning_rate=0.0001, margin=0.1, model='HR-BiLSTM', optimizer='RMSprop', pretrain_model=None, save_model_path='save_model/413_15h12m.pt', test=True, train=True)
+0.7793313069908815	save_model/413_15h12m.pt
+Namespace(batch_obj_size=128, batch_question_size=2, batch_type='batch_question', dropout=0.5, earlystop_tolerance=5, epoch_num=1000, hidden_size=512, learning_rate=0.0001, margin=0.1, model='HR-BiLSTM', optimizer='RMSprop', pretrain_model=None, save_model_path='save_model/413_23h32m.pt', test=True, train=True)
+0.8066869300911854	save_model/413_23h32m.pt
+Namespace(batch_obj_size=128, batch_question_size=1, batch_type='batch_question', dropout=0.5, earlystop_tolerance=5, epoch_num=1000, hidden_size=512, learning_rate=0.0001, margin=0.1, model='HR-BiLSTM', optimizer='RMSprop', pretrain_model=None, save_model_path='save_model/416_11h8m.pt', test=True, train=True)
+0.7914893617021277	save_model/416_11h8m.pt
+Namespace(batch_obj_size=128, batch_question_size=1, batch_type='batch_question', dropout=0.5, earlystop_tolerance=5, epoch_num=1000, hidden_size=512, learning_rate=0.0001, margin=0.1, model='HR-BiLSTM', optimizer='RMSprop', pretrain_model=None, save_model_path='save_model/416_13h35m.pt', test=True, train=True)
+0.8060790273556231	save_model/416_13h35m.pt
+
+Namespace(batch_obj_size=128, batch_question_size=2, batch_type='batch_question', dropout=0.5, earlystop_tolerance=5, epoch_num=1000, hidden_size=400, learning_rate=2.0, margin=0.1, model='HR-BiLSTM', optimizer='Adagrad', pretrain_model=None, save_model_path='save_model/416_16h45m.pt', test=True, train=True)
+
+Namespace(batch_obj_size=128, batch_question_size=2, batch_type='batch_question', dropout=0.5, earlystop_tolerance=5, epoch_num=1000, hidden_size=400, learning_rate=0.1, margin=0.1, model='HR-BiLSTM', optimizer='Adagrad', pretrain_model=None, save_model_path='save_model/416_16h56m.pt', test=True, train=True)
+0.7240121580547112	save_model/416_16h56m.pt
+
+Namespace(batch_obj_size=128, batch_question_size=2, batch_type='batch_question', dropout=0.5, earlystop_tolerance=5, epoch_num=1000, hidden_size=400, learning_rate=2.0, margin=0.1, model='HR-BiLSTM', optimizer='Adadelta', pretrain_model=None, save_model_path='save_model/416_18h3m.pt', test=True, train=True)
+0.6620060790273556	save_model/416_18h3m.pt
+Namespace(batch_obj_size=128, batch_question_size=2, batch_type='batch_question', dropout=0.5, earlystop_tolerance=5, epoch_num=1000, hidden_size=400, learning_rate=2.0, margin=0.1, model='HR-BiLSTM', optimizer='Adadelta', pretrain_model=None, save_model_path='save_model/416_18h7m.pt', test=True, train=True)
+0.6620060790273556	save_model/416_18h7m.pt
+
+Namespace(batch_obj_size=128, batch_question_size=2, batch_type='batch_question', dropout=0.5, earlystop_tolerance=5, epoch_num=1000, hidden_size=200, learning_rate=2.0, margin=0.1, model='HR-BiLSTM', optimizer='Adadelta', pretrain_model=None, save_model_path='save_model/416_18h5m.pt', test=True, train=True)
+0.6632218844984803	save_model/416_18h5m.pt
+Namespace(batch_obj_size=128, batch_question_size=2, batch_type='batch_question', dropout=0.5, earlystop_tolerance=5, epoch_num=1000, hidden_size=200, learning_rate=2.0, margin=0.1, model='HR-BiLSTM', optimizer='Adadelta', pretrain_model=None, save_model_path='save_model/416_18h9m.pt', test=True, train=True)
+0.6632218844984803	save_model/416_18h9m.pt
+
+Namespace(batch_obj_size=128, batch_question_size=2, batch_type='batch_question', dropout=0.5, earlystop_tolerance=5, epoch_num=1000, hidden_size=100, learning_rate=2.0, margin=0.1, model='HR-BiLSTM', optimizer='Adadelta', pretrain_model=None, save_model_path='save_model/416_18h11m.pt', test=True, train=True)
+Namespace(batch_obj_size=128, batch_question_size=2, batch_type='batch_question', dropout=0.5, earlystop_tolerance=5, epoch_num=1000, hidden_size=100, learning_rate=2.0, margin=0.1, model='HR-BiLSTM', optimizer='Adadelta', pretrain_model=None, save_model_path='save_model/416_18h11m.pt', test=True, train=True)
+0.6851063829787234	save_model/416_18h11m.pt
+0.6851063829787234	save_model/416_18h11m.pt
+Namespace(batch_obj_size=128, batch_question_size=2, batch_type='batch_question', dropout=0.5, earlystop_tolerance=5, epoch_num=1000, hidden_size=50, learning_rate=2.0, margin=0.1, model='HR-BiLSTM', optimizer='Adadelta', pretrain_model=None, save_model_path='save_model/416_18h12m.pt', test=True, train=True)
+0.7033434650455928	save_model/416_18h12m.pt
+Namespace(batch_obj_size=128, batch_question_size=2, batch_type='batch_question', dropout=0.5, earlystop_tolerance=5, epoch_num=1000, hidden_size=50, learning_rate=2.0, margin=0.1, model='HR-BiLSTM', optimizer='Adadelta', pretrain_model=None, save_model_path='save_model/417_16h52m.pt', test=True, train=True)
+0.7033434650455928	save_model/417_16h52m.pt
+Namespace(batch_obj_size=128, batch_question_size=1, batch_type='batch_question', dropout=0.5, earlystop_tolerance=5, epoch_num=1000, hidden_size=50, learning_rate=2.0, margin=0.1, model='HR-BiLSTM', optimizer='Adadelta', pretrain_model=None, save_model_path='save_model/417_17h16m.pt', test=True, train=True)
+0.7337386018237082	save_model/417_17h16m.pt
+
+Namespace(batch_obj_size=128, batch_question_size=2, batch_type='batch_question', dropout=0.5, earlystop_tolerance=5, epoch_num=1000, hidden_size=100, learning_rate=0.0001, margin=0.1, model='HR-BiLSTM', optimizer='RMSprop', pretrain_model=None, save_model_path='save_model/417_16h58m.pt', test=True, train=True)
+0.6936170212765957	save_model/417_16h58m.pt
+Namespace(batch_obj_size=128, batch_question_size=2, batch_type='batch_question', dropout=0.5, earlystop_tolerance=5, epoch_num=1000, hidden_size=512, learning_rate=0.0001, margin=0.1, model='HR-BiLSTM', optimizer='RMSprop', pretrain_model=None, save_model_path='save_model/417_17h3m.pt', test=True, train=True)
+0.7787234042553192	save_model/417_17h3m.pt
+Namespace(batch_obj_size=128, batch_question_size=1, batch_type='batch_question', dropout=0.35, earlystop_tolerance=5, epoch_num=1000, hidden_size=50, learning_rate=1.0, margin=0.1, model='HR-BiLSTM', optimizer='Adadelta', pretrain_model=None, save_model_path='save_model/423_18h22m.pt', test=True, train=True)
+0.7452887537993921	save_model/423_18h22m.pt
+
+Namespace(batch_obj_size=128, batch_question_size=1, batch_type='batch_question', dropout=0.35, earlystop_tolerance=5, epoch_num=1000, hidden_size=50, learning_rate=1.0, margin=0.2, model='HR-BiLSTM', optimizer='Adadelta', pretrain_model=None, save_model_path='save_model/425_17h22m.pt', test=True, train=True)
+0.713677811550152	save_model/425_17h22m.pt
+Namespace(batch_obj_size=128, batch_question_size=1, batch_type='batch_question', dropout=0.3, earlystop_tolerance=5, epoch_num=1000, hidden_size=512, learning_rate=0.0001, margin=0.2, model='HR-BiLSTM', optimizer='RMSprop', pretrain_model=None, save_model_path='save_model/425_17h35m.pt', test=True, train=True)
+0.7781155015197568	save_model/425_17h35m.pt
+Namespace(batch_obj_size=128, batch_question_size=1, batch_type='batch_question', dropout=0.3, earlystop_tolerance=5, epoch_num=1000, hidden_size=512, learning_rate=0.0001, margin=0.1, model='HR-BiLSTM', optimizer='RMSprop', pretrain_model=None, save_model_path='save_model/425_17h38m.pt', test=True, train=True)
+0.8072948328267477	save_model/425_17h38m.pt
+
+
+1hop_2hop
+Namespace(batch_obj_size=128, batch_question_size=1, batch_type='batch_question', dropout=0.3, earlystop_tolerance=5, epoch_num=1000, hidden_size=512, learning_rate=0.0001, margin=0.1, model='HR-BiLSTM', optimizer='RMSprop', pretrain_model=None, save_model_path='save_model/425_22h52m.pt', test=True, train=True)
+0.0011210762331838565	save_model/425_22h52m.pt
+Namespace(batch_obj_size=128, batch_question_size=32, batch_type='batch_obj', dropout=0.35, earlystop_tolerance=5, epoch_num=1000, hidden_size=100, learning_rate=1.0, margin=0.1, model='ABWIM', optimizer='Adadelta', pretrain_model=None, save_model_path='save_model/425_22h54m.pt', test=True, train=True)
+0.002242152466367713	save_model/425_22h54m.pt
+Namespace(batch_obj_size=128, batch_question_size=1, batch_type='batch_question', dropout=0.3, earlystop_tolerance=5, epoch_num=1000, hidden_size=512, learning_rate=0.0001, margin=0.1, model='HR-BiLSTM', optimizer='RMSprop', pretrain_model=None, save_model_path='save_model/426_10h35m.pt', test=True, train=True)
+0.0016816143497757848	save_model/426_10h35m.pt
+Namespace(batch_obj_size=128, batch_question_size=32, batch_type='batch_obj', dropout=0.35, earlystop_tolerance=5, epoch_num=1000, hidden_size=100, learning_rate=1.0, margin=0.1, model='ABWIM', optimizer='Adadelta', pretrain_model=None, save_model_path='save_model/426_10h46m.pt', test=True, train=True)
+0.002242152466367713	save_model/426_10h46m.pt
+
+
+take 1st pos_id as answer
+Namespace(batch_obj_size=128, batch_question_size=32, batch_type='batch_obj', dropout=0.35, earlystop_tolerance=5, epoch_num=1000, hidden_size=100, learning_rate=1.0, margin=0.1, model='ABWIM', optimizer='Adadelta', pretrain_model=None, save_model_path='save_model/426_18h8m.pt', test=True, train=True)
+0.7465045592705167	save_model/426_18h8m.pt
